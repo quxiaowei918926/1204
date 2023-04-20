@@ -21,4 +21,8 @@ public class Test {
     public void m() {
         int k = 1 + 1;
     }
+
+    public String k(){
+        return "1";
+    }
 }
