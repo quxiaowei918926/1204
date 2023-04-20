@@ -13,7 +13,8 @@ public class Test {
         int a = 1 + 1;
     }
 
+
     public void cancel(){
-        int  q = 1 + 2;
+        int  m = 1 + 2;
     }
 }
