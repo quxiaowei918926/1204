@@ -8,6 +8,7 @@ public class Test {
         System.out.println("HelloWorld!");
         System.out.println("123");
         System.out.println("4567");
+        System.out.println("密码");
         System.out.println("娜娜");
         int a = 1 + 1;
     }
