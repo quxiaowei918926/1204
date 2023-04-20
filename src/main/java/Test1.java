@@ -5,6 +5,6 @@
  */
 public class Test1 {
     public void test(){
-        int q = 1 + 9;
+        int k = 5 + 6;
     }
 }
