@@ -14,7 +14,11 @@ public class Test {
     }
 
 
-    public void cancel(){
-        int  m = 1 + 2;
+    public void cancel() {
+        int m = 1 + 2;
+    }
+
+    public void m() {
+        int k = 1 + 1;
     }
 }
