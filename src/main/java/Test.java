@@ -12,4 +12,8 @@ public class Test {
         System.out.println("娜娜");
         int a = 1 + 1;
     }
+
+    public void cancel(){
+        int  q = 1 + 2;
+    }
 }
