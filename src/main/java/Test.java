@@ -25,4 +25,6 @@ public class Test {
     public String k(){
         return "2";
     }
+
+    public String mm(){return "1111";}
 }
