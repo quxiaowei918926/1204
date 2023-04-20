@@ -23,6 +23,6 @@ public class Test {
     }
 
     public String k(){
-        return "1";
+        return "2";
     }
 }
