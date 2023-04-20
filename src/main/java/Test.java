@@ -12,4 +12,9 @@ public class Test {
         System.out.println("娜娜");
         int a = 1 + 1;
     }
+
+
+    public void cancel(){
+        int  m = 1 + 2;
+    }
 }
