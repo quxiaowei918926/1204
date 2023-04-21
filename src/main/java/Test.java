@@ -27,4 +27,9 @@ public class Test {
     }
 
     public String mm(){return "1111";}
+
+    public String io(){
+        return "git上";
+    }
+
 }
