@@ -32,4 +32,8 @@ public class Test {
         return "git上上上上";
     }
 
+    public String test(){
+        return "";
+    }
+
 }
